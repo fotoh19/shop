@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "644659659510",
+    "project_id": "shop-5fa32",
+    "storage_bucket": "shop-5fa32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644659659510:android:a71903716d0f00f8e562d7",
+        "android_client_info": {
+          "package_name": "com.note.shop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmAo5hKVMI4zRaFkWftowPRsUhrGC0PFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
